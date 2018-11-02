@@ -1,6 +1,6 @@
 require 'prime'
 
-def prime?(number)
+def prime?()
   if 
 end
     
