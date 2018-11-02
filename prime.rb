@@ -1,4 +1,4 @@
-def prime?()
-  Prime.each do |number|
+def prime?(number)
+  if 
 end
     
