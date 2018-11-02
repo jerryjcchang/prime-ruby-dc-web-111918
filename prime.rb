@@ -1,4 +1,4 @@
-require 
+require 'prime'
 
 def prime?(number)
   if 
